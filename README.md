@@ -60,6 +60,11 @@ has languished for about four years. Sigh.
 
 - make it work with latest Thunderbird versions again
 - make it work with "small taskbar" in Windows 10, currently it doesn't show anything on small taskbars
-- works fine for small numbers, but looks weird for "wide" numbers like 99, also doesn't adapt yet to larger numbers than 99
+- works fine for small numbers, but looks weird for "wide" numbers grous like 99 and higher
 - maybe some configs, like colors, size, font-size etc.
 - maybe get in contact with Brandon from original project when things are fixed
+
+### Big thanks
+
+A big thanks to the original repo creator, this is awesome work! I really don't know why this add-on it's used by
+much much muchmore people ...
