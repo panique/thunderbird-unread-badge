@@ -68,3 +68,9 @@ has languished for about four years. Sigh.
 
 A big thanks to the original repo creator, this is awesome work! I really don't know why this add-on it's used by
 much much muchmore people ...
+
+### Troubleshooting
+
+The big "anniversary update" for Windows 10 (Build 1607), released in August 2016, might affect Thunderbird plugins. So in case you don't see the badge anymore, just deactivate add-on, restart Thunderbird and then reactive the add-on.
+
+Also, when your mail account is too full or full of folders, the counter might get confused and stop working. Delete the stuff in the trashcan and restart Thunderbird to fix this.
